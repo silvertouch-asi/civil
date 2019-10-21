@@ -2,18 +2,18 @@
 <widget xmlns     = "http://www.w3.org/ns/widgets"
         xmlns:gap = "http://phonegap.com/ns/1.0"
         xmlns:android = "http://schemas.android.com/apk/res/android"
-        id        = "com.moodle.moodlemobile"
+        id        = "com.moodle.simplycivils"
         versionCode = "37100"
         android-versionCode="37100"
         version   = "3.7.1">
-    <name>Moodle</name>
+    <name>SimplyCivils</name>
 
     <description>
-        Moodle official app
+        simplycivils.com
     </description>
 
     <author href="http://moodle.com" email="mobile@moodle.com">
-        Moodle Mobile team
+        simplycivils Mobile team
     </author>
 
     <edit-config target="CFBundleShortVersionString" file="*-Info.plist" mode="merge">
@@ -69,7 +69,7 @@
     <preference name="AndroidPersistentFileLocation"    value="Compatibility" />
     <preference name="iosPersistentFileLocation"        value="Compatibility" />
 
-    <icon src="icon.png" />
+    <icon src="icon1.png" />
     <gap:splash src="splash.png" />
 
     <platform name="android">
