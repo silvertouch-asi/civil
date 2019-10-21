@@ -1559,7 +1559,7 @@
     "core.login.checksiteversion": "Check that your site uses Moodle 2.4 or later.",
     "core.login.confirmdeletesite": "Are you sure you want to delete the site {{sitename}}?",
     "core.login.connect": "Connect!",
-    "core.login.connecttomoodle": "Connect to Moodle",
+    "core.login.connecttomoodle": "Connect to SimplyCivils.com",
     "core.login.connecttomoodleapp": "You are trying to connect to a regular Moodle site. Please download the official Moodle app to access this site.",
     "core.login.connecttoworkplaceapp": "You are trying to connect to a Moodle Workplace site. Please download the Moodle Workplace app to access this site.",
     "core.login.contactyouradministrator": "Contact your site administrator for further help.",
